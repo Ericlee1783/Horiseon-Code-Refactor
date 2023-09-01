@@ -8,7 +8,7 @@ https://github.com/Ericlee1783/Horiseon-Code-Refactor This link is used to acces
 https://ericlee1783.github.io/Horiseon-Code-Refactor/ This link takes the user to the actual website deployed. 
 
 ## Usage
-After clicking the link, it will automatically redirect the user to the website. The website should look like the following, [alt text](./assets/images/hori-img-1.PNG). [alt text](./assets/images/hori-img-2.PNG). [alt text](./assets/images/hori-img-3.PNG).
+After clicking the link, it will automatically redirect the user to the website. The website should look like the following, <img src=./assets/images/hori-img-1.PNG alt="placeholder image"> <img src=./assets/images/hori-img-2.PNG alt="placeholder image"> <img src=./assets/images/hori-img-3.PNG alt="placeholder image">
 
 ## Credits
 N/A

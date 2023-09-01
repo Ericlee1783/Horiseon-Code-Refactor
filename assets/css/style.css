@@ -3,11 +3,13 @@
     padding: 0;
     margin: 0;
 }
-/*This is showing the background color in the gaps between each article */ 
+/*sets the whole background color of the page*/
 body {
     background-color: #d9dcd6;
 }
 
+
+/*These are all header styles*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -45,7 +47,9 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+/*until here*/
 
+/*All article, section, aside styles*/
 p {
     font-size: 16px;
 }
@@ -187,7 +191,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*until here*/
 
+/*footer styles*/
 footer {
     padding: 30px;
     clear: both;

@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+----------------------------------------------------------------------------------------------
 
 /*These are all header styles*/
 header {
@@ -48,7 +49,7 @@ a {
     text-decoration: none;
 }
 /*until here*/
-
+--------------------------------------------------------------------------------------------
 /*All article, section, aside styles*/
 p {
     font-size: 16px;
@@ -192,7 +193,7 @@ p {
     font-size: 36px;
 }
 /*until here*/
-
+------------------------------------------------------------------------------------------
 /*footer styles*/
 footer {
     padding: 30px;
